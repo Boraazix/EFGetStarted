@@ -2,9 +2,6 @@
 
 using (var context = new Repository())
 {
-    // create if not exists
-    context.Database.EnsureCreated();
-
     // create entity objects
     Blog blog = new Blog() { Url = "www.com.vc" };
     Post post = new Post() { Title = "A verdade", Content = "nua e crua", Blog = blog };

@@ -61,3 +61,4 @@ C:\Users\russe\source\repos\EFGetStarted\EFGetStarted\obj\Debug\net8.0\refint\EF
 C:\Users\russe\source\repos\EFGetStarted\EFGetStarted\obj\Debug\net8.0\EFGetStarted.pdb
 C:\Users\russe\source\repos\EFGetStarted\EFGetStarted\obj\Debug\net8.0\EFGetStarted.genruntimeconfig.cache
 C:\Users\russe\source\repos\EFGetStarted\EFGetStarted\obj\Debug\net8.0\ref\EFGetStarted.dll
+C:\Users\russe\source\repos\EFGetStarted\EFGetStarted\obj\Debug\net8.0\EFGetStarted.sourcelink.json
